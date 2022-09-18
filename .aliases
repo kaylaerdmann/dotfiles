@@ -1,0 +1,10 @@
+alias ..="cd .."
+alias cd..="cd .."
+alias cdp='cd `pwd`'
+
+alias dir="ls -lA"
+alias la="ls -A"
+
+alias gitdiff="git diff -U10 -w --color-moved"
+alias gitd=gitdiff
+alias gitdiffs="git diff -U10 -w --staged"
